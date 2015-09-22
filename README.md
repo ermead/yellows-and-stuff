@@ -1,5 +1,3 @@
 #
-git 
-git --help
-hello, this is a test.
-yellows-and-stuff
+Yellows-and-stuff
+This is my first repository.
